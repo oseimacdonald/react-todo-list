@@ -1,16 +1,63 @@
-# React + Vite
+# React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and functional **Todo List application built with React and Vite**.
 
-Currently, two official plugins are available:
+This project allows users to:
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks using **localStorage**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 How to Run the Project
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+1. Install dependencies:
+   ```bash
+   npm install
 
-## Expanding the ESLint configuration
+2. Start the development server:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   npm run dev
+
+3. Open your browser and visit:
+
+   http://localhost:5173
+
+📦 Project Structure
+
+src/
+ ┣ App.jsx
+ ┣ NewTodoForm.jsx
+ ┣ TodoItem.jsx
+ ┣ TodoList.jsx
+ ┗ style.css
+
+🧠 What I Learned
+
+Through this project, I learned:
+
+How to manage state using React Hooks (useState, useEffect)
+
+How to pass data between components using props
+
+How to implement persistent data storage with localStorage
+
+How to structure and document a small React application
+
+🕒 Time Spent
+
+Total time spent on this project during this sprint: 21 hours
+
+📸 Screenshot
+
+(Add your screenshot here before submission)
+
+👤 Author
+
+Osei Mac-onald Bonsu
+
+
+---
+
+
