@@ -10,6 +10,12 @@ This project allows users to:
 
 ---
 
+## 🎥 Demo Video
+
+You can watch my project demo and code walkthrough here:
+
+👉 **[View Loom Video](https://www.loom.com/share/0238142c02d343ae87b945d9ddae9d88)**
+
 ## 🚀 How to Run the Project
 
 1. Install dependencies:
