@@ -50,7 +50,7 @@ Through this project, I learned:
 
 Total time spent on this project during this sprint: 21 hours
 📸 Screenshot
-![alt text](image.png)
+![screenshot](image.png)
 
 👤 Author
 
