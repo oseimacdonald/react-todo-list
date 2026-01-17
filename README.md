@@ -13,16 +13,17 @@ This project allows users to:
 ## 🚀 How to Run the Project
 
 1. Install dependencies:
+
    ```bash
    npm install
 
-2. Start the development server:
+    Start the development server:
 
-   npm run dev
+npm run dev
 
-3. Open your browser and visit:
+Open your browser and visit:
 
-   http://localhost:5173
+    http://localhost:5173
 
 📦 Project Structure
 
@@ -37,27 +38,20 @@ src/
 
 Through this project, I learned:
 
-How to manage state using React Hooks (useState, useEffect)
+    How to manage state using React Hooks (useState, useEffect)
 
-How to pass data between components using props
+    How to pass data between components using props
 
-How to implement persistent data storage with localStorage
+    How to implement persistent data storage with localStorage
 
-How to structure and document a small React application
+    How to structure and document a small React application
 
 🕒 Time Spent
 
 Total time spent on this project during this sprint: 21 hours
-
 📸 Screenshot
-
-(Add your screenshot here before submission)
+![alt text](image.png)
 
 👤 Author
 
-Osei Mac-onald Bonsu
-
-
----
-
-
+Osei Mac-Donald Bonsu
